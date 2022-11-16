@@ -1,10 +1,10 @@
 # Soar Africa
 *Technology*
-Bootstrap
-Reactjs
-Rubi
-Sinatra
-dbDiagram.io
+Bootstrap<br>
+Reactjs<br>
+Rubi<br>
+Sinatra<br>
+dbDiagram.io<br>
 Git&Github
 #Configurations
 
