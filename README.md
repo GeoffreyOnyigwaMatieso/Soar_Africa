@@ -5,6 +5,7 @@ Reactjs<br>
 Rubi<br>
 Sinatra<br>
 dbDiagram.io<br>
-Git&Github
-#Configurations
+Git&Github<br>
+# Configurations
+
 
