@@ -151,18 +151,9 @@ This will run React on port 4000 (thanks to the configuration in the
 
 ## Conclusion
 
-In the past couple lessons, we've seen how to put together the two pieces we'll
+ we've seen how to put together the two pieces we'll
 need for full-stack applications by using `rails new` to create a new Rails API,
-and `create-react-app` to create a React project. Throughout the rest of this
-module, we'll focus on how our two applications communicate and share data.
-
-## Check For Understanding
-
-Before you move on, make sure you can answer the following questions:
-
-1. What options do you have for running Rails and React at the same time?
-2. What are the advantages and disadvantages of using `foreman` as described in
-   this lesson?
+and `create-react-app` to create a React project.  we'll focus on how our two applications communicate and share data.
 
 ## Resources
 
