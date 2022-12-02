@@ -1,6 +1,6 @@
 # Adding React to Rails
 
-## Learning Goals
+##  Goals
 
 - Use `create-react-app` to generate a new React application within a Rails
   project
@@ -8,9 +8,6 @@
 - Use the `foreman` gem to run React and Rails together
 
 ## Introduction
-
-In the last lesson, we created a Rails API from scratch. Now it's time to see
-how we can add a React frontend application as well.
 
 There are a number of ways to use React and Rails together, such as using the
 [`webpacker` gem](https://github.com/rails/webpacker) to manage JavaScript as
