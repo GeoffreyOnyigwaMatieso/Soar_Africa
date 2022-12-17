@@ -1,0 +1,2 @@
+class RBinsController < ApplicationController
+end

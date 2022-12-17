@@ -1,0 +1,2 @@
+class RBin < ApplicationRecord
+end
