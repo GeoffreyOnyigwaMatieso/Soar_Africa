@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  IdNumber: 1
+  SchoolName: MyString
+  Class: MyString
+  Date: 2022-12-17
+  Term: 1
+  Grade: MyString
+  Remarks: MyString
+
+two:
+  IdNumber: 1
+  SchoolName: MyString
+  Class: MyString
+  Date: 2022-12-17
+  Term: 1
+  Grade: MyString
+  Remarks: MyString
