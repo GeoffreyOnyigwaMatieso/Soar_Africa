@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :healths
   resources :r_bins
   resources :admins
   resources :academics

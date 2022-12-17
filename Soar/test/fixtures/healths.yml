@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  IdNumber: 1
+  Date: 2022-12-17
+  Complication: MyString
+  Status: MyString
+  Hospital: MyString
+  FinalStatus: MyString
+
+two:
+  IdNumber: 1
+  Date: 2022-12-17
+  Complication: MyString
+  Status: MyString
+  Hospital: MyString
+  FinalStatus: MyString
