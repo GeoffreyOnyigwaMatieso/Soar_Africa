@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :parent_guardians
   resources :child_data
   resources :healths
   resources :r_bins

@@ -1,0 +1,2 @@
+class ParentGuardiansController < ApplicationController
+end

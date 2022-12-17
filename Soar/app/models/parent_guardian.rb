@@ -1,0 +1,2 @@
+class ParentGuardian < ApplicationRecord
+end
